@@ -2,19 +2,15 @@
 
 ![Sales Dashboard](Sales.png)
 
----
 
 ## The Problem
 
 Sales data is only useful when it tells a story. Raw transaction records don't answer questions like *"who is actually buying from us?"*, *"when do we peak — and why do we drop off?"*, or *"which products are quietly carrying the business?"* This dashboard was built to answer exactly those questions.
 
----
 
 ## What I Built
 
 An end-to-end sales analytics dashboard covering **500 customers**, **$42.30K in total revenue**, and a **19.8% customer return rate**, all filterable by age group and quarter so any stakeholder can slice the data to their specific question.
-
----
 
 ## The Story the Data Tells
 
@@ -30,13 +26,11 @@ Electronics takes 31.04%, but Home (30.03%) and Clothing (23.64%) are not far be
 **The top product is a Monitor, and the list mixes electronics with apparel.**
 Monitor, Sweater, Microwave, Speaker, Keyboard, Jeans, Blanket — a cross-category top 7 that reflects the broader category balance and points to specific SKUs worth protecting with inventory and promotional priority.
 
----
 
 ## Filters Built In
 
 The dashboard includes dynamic filtering by **Age Group** and **Quarter**, allowing revenue trends, category breakdowns, and product rankings to be viewed through any demographic or time-period lens — without needing a second report.
 
----
 
 ## Tool Stack
 - Microsoft Excel (Data Cleaning & Data Analysis)
